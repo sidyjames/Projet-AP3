@@ -1,0 +1,78 @@
+
+input 
+{
+  border: none;
+  border-radius: 10px;
+  
+  
+}
+
+input#zone_text{
+   width: 400px;
+    padding: 5px;
+   padding-left: 10px;
+}
+
+   
+
+input#zone_textR{
+   width: 400px;
+    padding: 5px;
+   padding-left: 10px;
+   background: rgba(0, 0, 0, 0.40);
+
+}
+
+input#zone_text2{
+   width: 280px;
+  
+   padding-left: 15px;
+
+ 
+}
+
+input#zone_text3{
+   width: 150px;
+   height: 30px;
+   padding-left: 15px;
+   background-color: white;
+}
+ 
+.form-rapport{
+    
+   background-color: #2874A6;
+   background-size: cover;
+   margin-left: 240px;
+   margin-right: 240px;
+   border-radius: 15px; 
+   text-align: center;
+}
+
+
+.form-group{
+    padding-left: 10%;
+}
+
+.form-group2{
+    padding-left: 15%;
+}
+
+.form-medecin{
+    
+   background-color: #2874A6;
+   background-size: cover;
+   margin-left: 40px;
+   margin-right: 40px;
+   border-radius: 15px; 
+   text-align: center;
+}
+
+.form-profil{
+    
+   background-color: #2874A6;
+   background-size: cover;
+   margin-left: 85px;
+   margin-right: 85px;
+   border-radius: 15px; 
+   text-align: center;
+}
